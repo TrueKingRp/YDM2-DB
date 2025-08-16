@@ -1,12 +1,1 @@
-{
-  "id": 4081094,
-  "name": "The Second Sarcophagus",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "This card can only be placed on the field by the effect of \"The First Sarcophagus\".",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/4081094.jpg"
-  ],
-  "type": "Spell",
-  "spell_type": "Continuous"
-}
+{"id":4081094,"name":"The Second Sarcophagus","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/4081094.jpg"],"text":"This card can only be placed on the field by the effect of \"The First Sarcophagus\".","type":"Spell","spell_type":"Continuous"}

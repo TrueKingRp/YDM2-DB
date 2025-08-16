@@ -1,12 +1,1 @@
-{
-  "id": 52503575,
-  "name": "Final Attack Orders",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "All face-up monsters on the field are changed to Attack Position and their battle positions cannot be changed.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/52503575.jpg"
-  ],
-  "type": "Trap",
-  "trap_type": "Continuous"
-}
+{"id":52503575,"name":"Final Attack Orders","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/52503575.jpg"],"text":"All face-up monsters on the field are changed to Attack Position and their battle positions cannot be changed.","type":"Trap","trap_type":"Continuous"}

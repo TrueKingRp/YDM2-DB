@@ -1,12 +1,1 @@
-{
-  "id": 99735427,
-  "name": "Shadow-Imprisoning Mirror",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Negate all DARK monster effects activated on the field or in the GY.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/99735427.jpg"
-  ],
-  "type": "Trap",
-  "trap_type": "Continuous"
-}
+{"id":99735427,"name":"Shadow-Imprisoning Mirror","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/99735427.jpg"],"text":"Negate all DARK monster effects activated on the field or in the Graveyard.","type":"Trap","trap_type":"Continuous"}

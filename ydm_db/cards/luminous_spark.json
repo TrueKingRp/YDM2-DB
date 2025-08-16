@@ -1,12 +1,1 @@
-{
-  "id": 81777047,
-  "name": "Luminous Spark",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Increase the ATK of all LIGHT monsters by 500 points and decrease their DEF by 400 points.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/81777047.jpg"
-  ],
-  "type": "Spell",
-  "spell_type": "Field"
-}
+{"id":81777047,"name":"Luminous Spark","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/81777047.jpg"],"text":"All LIGHT monsters gain 500 ATK and lose 400 DEF.","type":"Spell","spell_type":"Field"}

@@ -1,12 +1,1 @@
-{
-  "id": 20057949,
-  "name": "Inherited Fortune",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Activate during the turn a face-up \"Fortune Lady\" monster you control was destroyed. Special Summon up to 2 \"Fortune Lady\" monsters from your hand during your next Standby Phase.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/20057949.jpg"
-  ],
-  "type": "Trap",
-  "trap_type": "Normal"
-}
+{"id":20057949,"name":"Inherited Fortune","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/20057949.jpg"],"text":"Activate during the turn a face-up \"Fortune Lady\" monster you control was destroyed. Special Summon up to 2 \"Fortune Lady\" monsters from your hand during your next Standby Phase.","type":"Trap","trap_type":"Normal"}

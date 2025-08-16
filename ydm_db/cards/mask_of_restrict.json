@@ -1,12 +1,1 @@
-{
-  "id": 29549364,
-  "name": "Mask of Restrict",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Neither player can Tribute cards.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/29549364.jpg"
-  ],
-  "type": "Trap",
-  "trap_type": "Continuous"
-}
+{"id":29549364,"name":"Mask of Restrict","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/29549364.jpg"],"text":"Neither player can Tribute cards.","type":"Trap","trap_type":"Continuous"}

@@ -1,12 +1,1 @@
-{
-  "id": 60912752,
-  "name": "D.D. Borderline",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "While there are no Spells in your GY, neither player can conduct their Battle Phase.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/60912752.jpg"
-  ],
-  "type": "Spell",
-  "spell_type": "Continuous"
-}
+{"id":60912752,"name":"D.D. Borderline","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/60912752.jpg"],"text":"When there are no Spell Cards in your Graveyard, neither player can conduct their Battle Phase.","type":"Spell","spell_type":"Continuous"}

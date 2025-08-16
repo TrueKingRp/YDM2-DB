@@ -1,12 +1,1 @@
-{
-  "id": 10035717,
-  "name": "Weapon Change",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Once during each of your Standby Phases: You can pay 700 LP, then target 1 Warrior or Machine monster you control; switch the current ATK and DEF of that target until the end of your opponent's next turn.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/10035717.jpg"
-  ],
-  "type": "Spell",
-  "spell_type": "Continuous"
-}
+{"id":10035717,"name":"Weapon Change","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/10035717.jpg"],"text":"Once during each of your Standby Phases: You can pay 700 Life Points, then target 1 Warrior or Machine-Type monster you control; switch the current ATK and DEF of that target until the end of your opponent's next turn.","type":"Spell","spell_type":"Continuous"}

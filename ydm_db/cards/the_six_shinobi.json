@@ -1,12 +1,1 @@
-{
-  "id": 6357341,
-  "name": "The Six Shinobi",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "If you control 6 \"Six Samurai\" monsters with different Attributes: Skip your opponent's next turn.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/6357341.jpg"
-  ],
-  "type": "Trap",
-  "trap_type": "Normal"
-}
+{"id":6357341,"name":"The Six Shinobi","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/6357341.jpg"],"text":"If you control 6 \"Six Samurai\" monsters with different Attributes: Skip your opponent's next turn.","type":"Trap","trap_type":"Normal"}

@@ -1,12 +1,1 @@
-{
-  "id": 75967082,
-  "name": "Short Circuit",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Activate only if you control 3 or more \"Batteryman\" monsters. Destroy all cards your opponent controls.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/75967082.jpg"
-  ],
-  "type": "Spell",
-  "spell_type": "Normal"
-}
+{"id":75967082,"name":"Short Circuit","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/75967082.jpg"],"text":"Activate only if you control 3 or more \"Batteryman\" monsters. Destroy all cards your opponent controls.","type":"Spell","spell_type":"Normal"}

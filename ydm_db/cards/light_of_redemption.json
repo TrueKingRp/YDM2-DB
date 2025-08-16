@@ -1,12 +1,1 @@
-{
-  "id": 2362787,
-  "name": "Light of Redemption",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Pay 800 Life Points, then target 1 of your banished LIGHT monsters; add that target to your hand.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/2362787.jpg"
-  ],
-  "type": "Spell",
-  "spell_type": "Normal"
-}
+{"id":2362787,"name":"Light of Redemption","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/2362787.jpg"],"text":"Pay 800 Life Points, then target 1 of your banished LIGHT monsters; add that target to your hand.","type":"Spell","spell_type":"Normal"}
