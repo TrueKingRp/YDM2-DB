@@ -1,1 +1,21 @@
-{"id":59575539,"name":"Krebons","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/59575539.jpg"],"text":"When this card is targeted for an attack: You can pay 800 LP; negate the attack.","type":"Monster","attribute":"DARK","atk":1200,"species":"Psychic","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":400,"level":2,"is_tuner":true}
+{
+  "id": 59575539,
+  "name": "Krebons",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is targeted for an attack: You can pay 800 LP; negate the attack.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/59575539.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 400,
+  "level": 2,
+  "is_tuner": true
+}

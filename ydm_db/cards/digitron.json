@@ -1,1 +1,21 @@
-{"id":32295838,"name":"Digitron","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/32295838.jpg"],"text":"A subspecies found in electronic space. There's little information on it.","type":"Monster","attribute":"EARTH","atk":1500,"species":"Cyberse","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":0,"level":2,"is_tuner":false}
+{
+  "id": 32295838,
+  "name": "Digitron",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A subspecies found in electronic space. There's little information on it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/32295838.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

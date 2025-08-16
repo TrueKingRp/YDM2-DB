@@ -1,1 +1,21 @@
-{"id":92667214,"name":"Clown Zombie","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/92667214.jpg"],"text":"A clown revived by the powers of darkness. Its deadly dance has sent many monsters to their graves.","type":"Monster","attribute":"DARK","atk":1350,"species":"Zombie","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":0,"level":2,"is_tuner":false}
+{
+  "id": 92667214,
+  "name": "Clown Zombie",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A clown revived by the powers of darkness. Its deadly dance has sent many monsters to their graves.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/92667214.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1350,
+  "species": "Zombie",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,1 +1,21 @@
-{"id":65393205,"name":"Chakra","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/65393205.jpg"],"text":"You can Ritual Summon this card with \"Resurrection of Chakra\".","type":"Monster","attribute":"DARK","atk":2450,"species":"Fiend","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Ritual","def":2000,"level":7,"is_tuner":false}
+{
+  "id": 65393205,
+  "name": "Chakra",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with \"Resurrection of Chakra\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/65393205.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2450,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

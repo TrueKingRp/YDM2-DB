@@ -1,1 +1,12 @@
-{"id":69381150,"name":"A.I.Q","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/69381150.jpg"],"text":"Activate only if you control an \"@Ignister\" monster. Once per turn, during your Standby Phase, Tribute 1 Link Monster, or destroy this card. Each player can only Link Summon a monster once per turn while this card is face-up on the field.","type":"Trap","trap_type":"Continuous"}
+{
+  "id": 69381150,
+  "name": "A.I.Q",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate only if you control an \"@Ignister\" monster. Once per turn, during your Standby Phase, Tribute 1 Link Monster, or destroy this card. Each player can only Link Summon a monster once per turn while this card is face-up on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/69381150.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

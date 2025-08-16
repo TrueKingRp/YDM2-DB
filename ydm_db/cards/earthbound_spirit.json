@@ -1,1 +1,21 @@
-{"id":67105242,"name":"Earthbound Spirit","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/67105242.jpg"],"text":"A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth.","type":"Monster","attribute":"EARTH","atk":500,"species":"Fiend","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":2000,"level":4,"is_tuner":false}
+{
+  "id": 67105242,
+  "name": "Earthbound Spirit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/67105242.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

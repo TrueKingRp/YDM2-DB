@@ -1,1 +1,24 @@
-{"id":93503294,"name":"Altergeist Primebanshee","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/93503294.jpg"],"text":"2+ \"Altergeist\" monsters\nDuring the Main Phase (Quick Effect): You can Tribute 1 other \"Altergeist\" monster; Special Summon 1 \"Altergeist\" monster from your Deck to your zone this card points to. If this card is sent from the field to the GY: You can target 1 \"Altergeist\" card in your GY; add it to your hand. You can only use each effect of \"Altergeist Primebanshee\" once per turn.","type":"Monster","attribute":"DARK","atk":2100,"species":"Spellcaster","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Link","link_rating":3,"link_arrows":["Right","Bottom","Bottom-Right"]}
+{
+  "id": 93503294,
+  "name": "Altergeist Primebanshee",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ \"Altergeist\" monsters\nDuring the Main Phase (Quick Effect): You can Tribute 1 other \"Altergeist\" monster; Special Summon 1 \"Altergeist\" monster from your Deck to your zone this card points to. If this card is sent from the field to the GY: You can target 1 \"Altergeist\" card in your GY; add it to your hand. You can only use each effect of \"Altergeist Primebanshee\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/93503294.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2100,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
+  "link_arrows": [
+    "Right",
+    "Bottom-Right",
+    "Bottom"
+  ]
+}

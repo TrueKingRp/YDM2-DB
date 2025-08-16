@@ -1,1 +1,21 @@
-{"id":56514812,"name":"Kunoichi","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/56514812.jpg"],"text":"When control of this face-up card changes, its new controller discards 1 random card.","type":"Monster","attribute":"WIND","atk":1800,"species":"Warrior","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1000,"level":4,"is_tuner":false}
+{
+  "id": 56514812,
+  "name": "Kunoichi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When control of this face-up card changes, its new controller discards 1 random card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/56514812.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1800,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

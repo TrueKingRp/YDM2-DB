@@ -1,1 +1,21 @@
-{"id":93451636,"name":"Wind-Up Honeybee","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/93451636.jpg"],"text":"When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 or lower \"Wind-Up\" monster from your Deck.","type":"Monster","attribute":"EARTH","atk":100,"species":"Insect","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":300,"level":1,"is_tuner":false}
+{
+  "id": 93451636,
+  "name": "Wind-Up Honeybee",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 or lower \"Wind-Up\" monster from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/93451636.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 100,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

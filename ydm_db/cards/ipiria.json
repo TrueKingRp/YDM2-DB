@@ -1,1 +1,21 @@
-{"id":70744296,"name":"Ipiria","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/70744296.jpg"],"text":"If this card is Summoned: Draw 1 card. You can only use this effect of \"Ipiria\" once per turn.","type":"Monster","attribute":"EARTH","atk":500,"species":"Reptile","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":500,"level":2,"is_tuner":false}
+{
+  "id": 70744296,
+  "name": "Ipiria",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Summoned: Draw 1 card. You can only use this effect of \"Ipiria\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70744296.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Reptile",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
+}

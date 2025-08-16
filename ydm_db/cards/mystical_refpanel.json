@@ -1,1 +1,12 @@
-{"id":35563539,"name":"Mystical Refpanel","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/35563539.jpg"],"text":"Activate only when a Spell Card that targets 1 player is activated. The effect of that Spell Card is applied to the other player instead.","type":"Trap","trap_type":"Normal"}
+{
+  "id": 35563539,
+  "name": "Mystical Refpanel",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate only when a Spell Card that targets 1 player is activated. The effect of that Spell Card is applied to the other player instead.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/35563539.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

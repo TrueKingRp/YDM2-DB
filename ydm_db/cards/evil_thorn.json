@@ -1,1 +1,21 @@
-{"id":85431040,"name":"Evil Thorn","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/85431040.jpg"],"text":"You can Tribute this card; inflict 300 damage to your opponent, and if you do, you can Special Summon up to 2 \"Evil Thorn\" from your Deck in Attack Position, but their effects cannot be activated.","type":"Monster","attribute":"DARK","atk":100,"species":"Plant","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":300,"level":1,"is_tuner":false}
+{
+  "id": 85431040,
+  "name": "Evil Thorn",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute this card; inflict 300 damage to your opponent, and if you do, you can Special Summon up to 2 \"Evil Thorn\" from your Deck in Attack Position, but their effects cannot be activated.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/85431040.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
+}

@@ -1,1 +1,21 @@
-{"id":83035296,"name":"Megistric Maginician","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/83035296.jpg"],"text":"Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. During the End Phase: You can remove 3 Spell Counters from this card, then target 1 of your banished Spells; add 1 card with the target's name from your Deck to your hand. You can only use this effect of \"Megistric Maginician\" once per turn.","type":"Monster","attribute":"FIRE","atk":0,"species":"Spellcaster","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":2000,"level":1,"is_tuner":false}
+{
+  "id": 83035296,
+  "name": "Megistric Maginician",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. During the End Phase: You can remove 3 Spell Counters from this card, then target 1 of your banished Spells; add 1 card with the target's name from your Deck to your hand. You can only use this effect of \"Megistric Maginician\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/83035296.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 0,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 1,
+  "is_tuner": false
+}

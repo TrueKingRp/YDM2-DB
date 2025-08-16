@@ -1,1 +1,21 @@
-{"id":75363626,"name":"Madolche Chouxvalier","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/75363626.jpg"],"text":"When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. Your opponent cannot target face-up \"Madolche\" monsters for attacks, except \"Madolche Chouxvalier\".","type":"Monster","attribute":"EARTH","atk":1700,"species":"Warrior","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1300,"level":4,"is_tuner":false}
+{
+  "id": 75363626,
+  "name": "Madolche Chouxvalier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. Your opponent cannot target face-up \"Madolche\" monsters for attacks, except \"Madolche Chouxvalier\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/75363626.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1700,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

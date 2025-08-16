@@ -1,1 +1,21 @@
-{"id":88671720,"name":"Black Salvo","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/88671720.jpg"],"text":"When this card is Normal Summoned: You can target 1 Level 4 DARK Machine-Type monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated.","type":"Monster","attribute":"DARK","atk":100,"species":"Machine","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1100,"level":3,"is_tuner":true}
+{
+  "id": 88671720,
+  "name": "Black Salvo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can target 1 Level 4 DARK Machine-Type monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/88671720.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1100,
+  "level": 3,
+  "is_tuner": true
+}

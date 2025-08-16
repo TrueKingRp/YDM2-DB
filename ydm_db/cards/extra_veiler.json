@@ -1,1 +1,21 @@
-{"id":32391566,"name":"Extra Veiler","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/32391566.jpg"],"text":"When your opponent Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand, and if you do, your opponent takes any effect damage you would have taken from their card effects this turn, instead.","type":"Monster","attribute":"LIGHT","atk":600,"species":"Spellcaster","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":200,"level":2,"is_tuner":false}
+{
+  "id": 32391566,
+  "name": "Extra Veiler",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand, and if you do, your opponent takes any effect damage you would have taken from their card effects this turn, instead.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/32391566.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 600,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
+}

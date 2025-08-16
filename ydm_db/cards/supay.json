@@ -1,1 +1,21 @@
-{"id":78552773,"name":"Supay","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/78552773.jpg"],"text":"When this card is sent from the field to the GY by card effect: You can Special Summon 1 \"Oracle of the Sun\" from your Deck, and if you do, double its ATK, also return it to the hand during the End Phase of this turn.","type":"Monster","attribute":"EARTH","atk":300,"species":"Fiend","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":100,"level":1,"is_tuner":true}
+{
+  "id": 78552773,
+  "name": "Supay",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is sent from the field to the GY by card effect: You can Special Summon 1 \"Oracle of the Sun\" from your Deck, and if you do, double its ATK, also return it to the hand during the End Phase of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/78552773.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 300,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 100,
+  "level": 1,
+  "is_tuner": true
+}

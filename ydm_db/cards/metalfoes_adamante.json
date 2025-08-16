@@ -1,1 +1,21 @@
-{"id":81612598,"name":"Metalfoes Adamante","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/81612598.jpg"],"text":"1 \"Metalfoes\" monster + 1 monster with 2500 or less ATK","type":"Monster","attribute":"FIRE","atk":2500,"species":"Psychic","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Fusion","def":2500,"level":5,"is_tuner":false}
+{
+  "id": 81612598,
+  "name": "Metalfoes Adamante",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 \"Metalfoes\" monster + 1 monster with 2500 or less ATK",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81612598.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2500,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2500,
+  "level": 5,
+  "is_tuner": false
+}

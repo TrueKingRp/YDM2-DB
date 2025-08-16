@@ -1,1 +1,12 @@
-{"id":94585852,"name":"Pandemonium","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/94585852.jpg"],"text":"Neither player has to pay Life Points during the Standby Phase for \"Archfiend\" monsters. Each time a player's \"Archfiend\" monster(s) is destroyed and sent to the Graveyard, except by battle, that player can add 1 \"Archfiend\" monster from their Deck to their hand that is a lower Level than the destroyed card.","type":"Spell","spell_type":"Field"}
+{
+  "id": 94585852,
+  "name": "Pandemonium",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Neither player has to pay LP during the Standby Phase for \"Archfiend\" monsters. When an \"Archfiend\" monster is destroyed and sent to the GY, except by battle: Its owner can add 1 \"Archfiend\" monster from their Deck to their hand with a lower Level than the destroyed card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/94585852.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

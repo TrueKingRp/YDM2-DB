@@ -1,1 +1,21 @@
-{"id":84686841,"name":"King Fog","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/84686841.jpg"],"text":"A fiend that dwells in a blinding curtain of smoke.","type":"Monster","attribute":"DARK","atk":1000,"species":"Fiend","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":900,"level":3,"is_tuner":false}
+{
+  "id": 84686841,
+  "name": "King Fog",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A fiend that dwells in a blinding curtain of smoke.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/84686841.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

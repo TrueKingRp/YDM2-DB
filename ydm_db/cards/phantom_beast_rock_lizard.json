@@ -1,1 +1,21 @@
-{"id":70969517,"name":"Phantom Beast Rock-Lizard","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/70969517.jpg"],"text":"If you're Tributing a \"Phantom Beast\" monster or \"Gazelle the King of Mythical Beasts\", this card can be Normal Summoned with 1 Tribute. When this card destroys a monster by battle, inflict 500 damage to your opponent. When this card is destroyed and sent to the Graveyard by an opponent's card effect, inflict 2000 damage to your opponent.","type":"Monster","attribute":"DARK","atk":2200,"species":"Beast-Warrior","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":2000,"level":7,"is_tuner":false}
+{
+  "id": 70969517,
+  "name": "Phantom Beast Rock-Lizard",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you're Tributing a \"Phantom Beast\" monster or \"Gazelle the King of Mythical Beasts\", this card can be Normal Summoned with 1 Tribute. When this card destroys a monster by battle, inflict 500 damage to your opponent. When this card is destroyed and sent to the Graveyard by an opponent's card effect, inflict 2000 damage to your opponent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70969517.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Beast-Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,1 +1,21 @@
-{"id":75582395,"name":"Faith Bird","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/75582395.jpg"],"text":"This long-tailed bird blinds its enemies with mystical light.","type":"Monster","attribute":"WIND","atk":1500,"species":"Winged Beast","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":1100,"level":4,"is_tuner":false}
+{
+  "id": 75582395,
+  "name": "Faith Bird",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This long-tailed bird blinds its enemies with mystical light.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/75582395.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1500,
+  "species": "Winged Beast",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
+}

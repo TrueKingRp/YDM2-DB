@@ -1,1 +1,21 @@
-{"id":75917088,"name":"Princess Pikeru","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/75917088.jpg"],"text":"This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Trial of the Princesses\". During your Standby Phase, gain 800 Life Points for each monster you control.","type":"Monster","attribute":"LIGHT","atk":2000,"species":"Spellcaster","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":0,"level":4,"is_tuner":false}
+{
+  "id": 75917088,
+  "name": "Princess Pikeru",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Trial of the Princesses\". During your Standby Phase, gain 800 Life Points for each monster you control.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/75917088.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

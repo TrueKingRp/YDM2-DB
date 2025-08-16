@@ -1,1 +1,21 @@
-{"id":3544583,"name":"Allvain the Essence of Vanity","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/3544583.jpg"],"text":"2 Normal Monsters","type":"Monster","attribute":"DARK","atk":0,"species":"Fairy","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Fusion","def":2100,"level":2,"is_tuner":false}
+{
+  "id": 3544583,
+  "name": "Allvain the Essence of Vanity",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Normal Monsters",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/3544583.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2100,
+  "level": 2,
+  "is_tuner": true
+}

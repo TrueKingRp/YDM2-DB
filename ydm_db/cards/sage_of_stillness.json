@@ -1,1 +1,21 @@
-{"id":62054060,"name":"Sage of Stillness","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/62054060.jpg"],"text":"If this card destroys an opponent's monster by battle, your opponent cannot activate Trap Cards during the next turn.","type":"Monster","attribute":"LIGHT","atk":1400,"species":"Spellcaster","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1000,"level":4,"is_tuner":false}
+{
+  "id": 62054060,
+  "name": "Sage of Stillness",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card destroys an opponent's monster by battle, your opponent cannot activate Trap Cards during the next turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/62054060.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1400,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

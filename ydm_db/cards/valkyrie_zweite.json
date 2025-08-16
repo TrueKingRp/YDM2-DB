@@ -1,1 +1,21 @@
-{"id":30411385,"name":"Valkyrie Zweite","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/30411385.jpg"],"text":"If this card is Summoned: You can target 1 monster your opponent controls; destroy it. After damage calculation, if this card battled: You can target 1 Continuous Spell in your GY; add it to your hand. You can only use each effect of \"Valkyrie Zweite\" once per turn.","type":"Monster","attribute":"LIGHT","atk":1600,"species":"Fairy","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1600,"level":5,"is_tuner":false}
+{
+  "id": 30411385,
+  "name": "Valkyrie Zweite",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Summoned: You can target 1 monster your opponent controls; destroy it. After damage calculation, if this card battled: You can target 1 Continuous Spell in your GY; add it to your hand. You can only use each effect of \"Valkyrie Zweite\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/30411385.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 5,
+  "is_tuner": false
+}

@@ -1,1 +1,21 @@
-{"id":36717258,"name":"Jurrac Monoloph","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/36717258.jpg"],"text":"This card can attack all monsters your opponent controls once each.","type":"Monster","attribute":"FIRE","atk":1500,"species":"Dinosaur","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1200,"level":3,"is_tuner":true}
+{
+  "id": 36717258,
+  "name": "Jurrac Monoloph",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card can attack all monsters your opponent controls once each.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/36717258.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1500,
+  "species": "Dinosaur",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 3,
+  "is_tuner": true
+}

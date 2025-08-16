@@ -1,1 +1,21 @@
-{"id":9637706,"name":"Des Wombat","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/9637706.jpg"],"text":"Any damage to you from a card effect becomes 0.","type":"Monster","attribute":"EARTH","atk":1600,"species":"Beast","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":300,"level":3,"is_tuner":false}
+{
+  "id": 9637706,
+  "name": "Des Wombat",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You take no effect damage.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9637706.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
+}

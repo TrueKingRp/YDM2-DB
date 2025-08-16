@@ -1,1 +1,21 @@
-{"id":92391084,"name":"Wilmee","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/92391084.jpg"],"text":"A rabid rabbit that shears through opposition with its sharp skewers.","type":"Monster","attribute":"EARTH","atk":1000,"species":"Beast","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":1200,"level":4,"is_tuner":false}
+{
+  "id": 92391084,
+  "name": "Wilmee",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A rabid rabbit that shears through opposition with its sharp skewers.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/92391084.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

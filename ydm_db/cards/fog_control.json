@@ -1,1 +1,12 @@
-{"id":63741331,"name":"Fog Control","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/63741331.jpg"],"text":"Tribute 1 face-up \"Cloudian\" monster you control. Place 3 Fog Counters on 1 face-up monster.","type":"Spell","spell_type":"Quick-Play"}
+{
+  "id": 63741331,
+  "name": "Fog Control",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Tribute 1 face-up \"Cloudian\" monster, then target 1 face-up monster on the field; place 3 Fog Counters on that target.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/63741331.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

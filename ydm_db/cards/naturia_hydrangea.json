@@ -1,1 +1,21 @@
-{"id":47795344,"name":"Naturia Hydrangea","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/47795344.jpg"],"text":"If the effect of a \"Naturia\" monster you control was activated during this turn, you can Special Summon this card from your hand.","type":"Monster","attribute":"EARTH","atk":1900,"species":"Plant","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":2000,"level":5,"is_tuner":false}
+{
+  "id": 47795344,
+  "name": "Naturia Hydrangea",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If the effect of a \"Naturia\" monster you control was activated during this turn, you can Special Summon this card from your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47795344.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 5,
+  "is_tuner": false
+}

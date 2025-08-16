@@ -1,1 +1,12 @@
-{"id":35486099,"name":"Crystal Blessing","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/35486099.jpg"],"text":"Target up to 2 \"Crystal Beast\" monsters in your Graveyard; place those targets face-up in your Spell & Trap Card Zone as Continuous Spell Cards.","type":"Spell","spell_type":"Normal"}
+{
+  "id": 35486099,
+  "name": "Crystal Blessing",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target up to 2 \"Crystal Beast\" monsters in your GY; place those targets face-up in your Spell & Trap Zone as Continuous Spells.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/35486099.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

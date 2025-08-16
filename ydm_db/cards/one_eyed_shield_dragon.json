@@ -1,1 +1,21 @@
-{"id":33064647,"name":"One-Eyed Shield Dragon","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/33064647.jpg"],"text":"This dragon wears a shield not only for its own protection, but also for ramming its enemies.","type":"Monster","attribute":"WIND","atk":700,"species":"Dragon","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":1300,"level":3,"is_tuner":false}
+{
+  "id": 33064647,
+  "name": "One-Eyed Shield Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This dragon wears a shield not only for its own protection, but also for ramming its enemies.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/33064647.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 700,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1300,
+  "level": 3,
+  "is_tuner": false
+}

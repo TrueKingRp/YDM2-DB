@@ -1,1 +1,21 @@
-{"id":53388413,"name":"Commander Gottoms, Swordmaster","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/53388413.jpg"],"text":"All face-up \"Saber\" monsters you control gain 400 ATK.","type":"Monster","attribute":"EARTH","atk":2100,"species":"Beast-Warrior","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1600,"level":6,"is_tuner":false}
+{
+  "id": 53388413,
+  "name": "Commander Gottoms, Swordmaster",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "All face-up \"Saber\" monsters you control gain 400 ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/53388413.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2100,
+  "species": "Beast-Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
+}

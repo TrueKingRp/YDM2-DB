@@ -1,1 +1,21 @@
-{"id":95027497,"name":"Ninja Grandmaster Hanzo","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/95027497.jpg"],"text":"When this card is Normal Summoned: You can add 1 \"Ninjitsu Art\" card from your Deck to your hand. When this card is Flip or Special Summoned: You can add 1 \"Ninja\" monster from your Deck to your hand, except \"Ninja Grandmaster Hanzo\".","type":"Monster","attribute":"DARK","atk":1800,"species":"Warrior","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1000,"level":4,"is_tuner":false}
+{
+  "id": 95027497,
+  "name": "Ninja Grandmaster Hanzo",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned: You can add 1 \"Ninjitsu Art\" card from your Deck to your hand. When this card is Flip or Special Summoned: You can add 1 \"Ninja\" monster from your Deck to your hand, except \"Ninja Grandmaster Hanzo\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/95027497.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

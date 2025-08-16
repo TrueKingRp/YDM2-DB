@@ -1,1 +1,21 @@
-{"id":70832512,"name":"Absolute Crusader","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/70832512.jpg"],"text":"If a Level 5 or higher monster(s) is Special Summoned: Tribute this face-up card; destroy that Level 5 or higher monster(s).","type":"Monster","attribute":"EARTH","atk":1800,"species":"Warrior","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1200,"level":4,"is_tuner":false}
+{
+  "id": 70832512,
+  "name": "Absolute Crusader",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a Level 5 or higher monster(s) is Special Summoned: Tribute this face-up card; destroy that Level 5 or higher monster(s).",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/70832512.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

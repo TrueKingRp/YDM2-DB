@@ -1,1 +1,20 @@
-{"id":44505297,"name":"Inzektor Exa-Beetle","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/44505297.jpg"],"text":"2 Level 6 monsters\nWhen this card is Xyz Summoned: You can target 1 monster in either player's Graveyard; equip that target to this card. This card gains ATK and DEF equal to half the original ATK and DEF of the monster equipped by this effect. Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up card on each side of the field; send those targets to the Graveyard.","type":"Monster","attribute":"DARK","atk":1000,"species":"Insect","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Xyz","rank":6,"def":1000}
+{
+  "id": 44505297,
+  "name": "Inzektor Exa-Beetle",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Level 6 monsters\nWhen this card is Xyz Summoned: You can target 1 monster in either GY; equip that target to this card. This card gains ATK/DEF equal to half the original ATK/DEF of the monster equipped by this effect. Once per turn: You can detach 1 material from this card, then target 1 face-up card on each field; send those targets to the GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/44505297.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 1000,
+  "rank": 6
+}

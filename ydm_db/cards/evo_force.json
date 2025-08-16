@@ -1,1 +1,12 @@
-{"id":5338223,"name":"Evo-Force","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/5338223.jpg"],"text":"Tribute 1 \"Evoltile\" monster; Special Summon 1 \"Evolsaur\" monster from your Deck. It is treated as if it was Special Summoned by the effect of an \"Evoltile\" monster.","type":"Spell","spell_type":"Normal"}
+{
+  "id": 5338223,
+  "name": "Evo-Force",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Tribute 1 \"Evoltile\" monster; Special Summon 1 \"Evolsaur\" monster from your Deck. (This is treated as a Special Summon by the effect of an \"Evoltile\" monster.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/5338223.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

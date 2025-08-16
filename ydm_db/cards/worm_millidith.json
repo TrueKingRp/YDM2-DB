@@ -1,1 +1,21 @@
-{"id":71315423,"name":"Worm Millidith","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/71315423.jpg"],"text":"FLIP: You can equip this card to a monster your opponent controls as an Equip Card. Inflict 400 damage to the controller of the equipped monster during each Standby Phase.","type":"Monster","attribute":"LIGHT","atk":400,"species":"Reptile","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1600,"level":4,"is_tuner":false}
+{
+  "id": 71315423,
+  "name": "Worm Millidith",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: You can equip this card to a monster your opponent controls as an Equip Card. Inflict 400 damage to the controller of the equipped monster during each Standby Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/71315423.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 400,
+  "species": "Reptile",
+  "ability": "Flip",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

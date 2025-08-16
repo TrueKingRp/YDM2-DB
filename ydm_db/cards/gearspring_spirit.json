@@ -1,1 +1,21 @@
-{"id":45458027,"name":"Gearspring Spirit","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/45458027.jpg"],"text":"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having only Machine-Type monsters in your Graveyard (min. 1). Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase.","type":"Monster","attribute":"DARK","atk":100,"species":"Machine","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":100,"level":8,"is_tuner":false}
+{
+  "id": 45458027,
+  "name": "Gearspring Spirit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having only Machine-Type monsters in your Graveyard (min. 1). Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/45458027.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 100,
+  "level": 8,
+  "is_tuner": false
+}

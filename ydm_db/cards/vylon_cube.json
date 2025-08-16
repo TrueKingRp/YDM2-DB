@@ -1,1 +1,21 @@
-{"id":41431329,"name":"Vylon Cube","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/41431329.jpg"],"text":"If this card is sent to the Graveyard for the Synchro Summon of a LIGHT monster: You can add 1 Equip Spell Card from your Deck to your hand.","type":"Monster","attribute":"LIGHT","atk":800,"species":"Machine","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":800,"level":3,"is_tuner":true}
+{
+  "id": 41431329,
+  "name": "Vylon Cube",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is sent to the Graveyard for the Synchro Summon of a LIGHT monster: You can add 1 Equip Spell Card from your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/41431329.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 3,
+  "is_tuner": true
+}

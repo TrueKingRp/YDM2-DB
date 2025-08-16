@@ -1,1 +1,21 @@
-{"id":38916461,"name":"Roboyarou","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/38916461.jpg"],"text":"A warrior fully covered with metal. It upgrades by fusing with \"Robolady\".","type":"Monster","attribute":"EARTH","atk":900,"species":"Machine","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":450,"level":3,"is_tuner":false}
+{
+  "id": 38916461,
+  "name": "Roboyarou",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A warrior fully covered with metal. It upgrades by fusing with \"Robolady\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/38916461.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 450,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,1 +1,21 @@
-{"id":423705,"name":"Gearfried the Iron Knight","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/423705.jpg"],"text":"If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).","type":"Monster","attribute":"EARTH","atk":1800,"species":"Warrior","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1600,"level":4,"is_tuner":false}
+{
+  "id": 423705,
+  "name": "Gearfried the Iron Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/423705.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1800,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

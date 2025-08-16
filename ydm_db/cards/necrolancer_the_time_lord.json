@@ -1,1 +1,21 @@
-{"id":61454890,"name":"Necrolancer the Time-lord","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/61454890.jpg"],"text":"The one-eyed Necrolancer launches his onslaught from a dimensional ring that can appear out of thin air.","type":"Monster","attribute":"DARK","atk":800,"species":"Spellcaster","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":900,"level":3,"is_tuner":false}
+{
+  "id": 61454890,
+  "name": "Necrolancer the Time-lord",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The one-eyed Necrolancer launches his onslaught from a dimensional ring that can appear out of thin air.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/61454890.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

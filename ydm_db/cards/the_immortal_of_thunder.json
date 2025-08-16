@@ -1,1 +1,21 @@
-{"id":84926738,"name":"The Immortal of Thunder","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/84926738.jpg"],"text":"FLIP: Increase your Life Points by 3000 points. When this card is sent from the field to the Graveyard, you lose 5000 Life Points.","type":"Monster","attribute":"LIGHT","atk":1500,"species":"Thunder","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1300,"level":4,"is_tuner":false}
+{
+  "id": 84926738,
+  "name": "The Immortal of Thunder",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "FLIP: Increase your Life Points by 3000 points. When this card is sent from the field to the Graveyard, you lose 5000 Life Points.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/84926738.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "species": "Thunder",
+  "ability": "Flip",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

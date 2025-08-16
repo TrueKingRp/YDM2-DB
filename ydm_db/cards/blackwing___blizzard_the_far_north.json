@@ -1,1 +1,21 @@
-{"id":22835145,"name":"Blackwing - Blizzard the Far North","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/22835145.jpg"],"text":"Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 Level 4 or lower \"Blackwing\" monster in your Graveyard; Special Summon that target in Defense Position.","type":"Monster","attribute":"DARK","atk":1300,"species":"Winged Beast","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":0,"level":2,"is_tuner":true}
+{
+  "id": 22835145,
+  "name": "Blackwing - Blizzard the Far North",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 Level 4 or lower \"Blackwing\" monster in your GY; Special Summon that target in Defense Position.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/22835145.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1300,
+  "species": "Winged Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 2,
+  "is_tuner": true
+}

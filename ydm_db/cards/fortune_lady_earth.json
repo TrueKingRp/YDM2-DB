@@ -1,1 +1,21 @@
-{"id":82971335,"name":"Fortune Lady Earth","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/82971335.jpg"],"text":"This card's ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When the Level of this card increases, inflict 400 damage to your opponent.","type":"Monster","attribute":"EARTH","atk":-1,"species":"Spellcaster","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":-1,"level":6,"is_tuner":false}
+{
+  "id": 82971335,
+  "name": "Fortune Lady Earth",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card's ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When the Level of this card increases, inflict 400 damage to your opponent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/82971335.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": -1,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": -1,
+  "level": 6,
+  "is_tuner": false
+}

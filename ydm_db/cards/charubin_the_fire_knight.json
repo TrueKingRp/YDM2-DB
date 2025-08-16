@@ -1,1 +1,21 @@
-{"id":37421579,"name":"Charubin the Fire Knight","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/37421579.jpg"],"text":"\"Monster Egg\" + \"Hinotama Soul\"","type":"Monster","attribute":"FIRE","atk":1100,"species":"Pyro","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Fusion","def":800,"level":3,"is_tuner":false}
+{
+  "id": 37421579,
+  "name": "Charubin the Fire Knight",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Monster Egg\" + \"Hinotama Soul\"",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/37421579.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1100,
+  "species": "Pyro",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

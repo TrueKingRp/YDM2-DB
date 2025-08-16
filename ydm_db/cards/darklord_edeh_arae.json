@@ -1,1 +1,21 @@
-{"id":47664723,"name":"Darklord Edeh Arae","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/47664723.jpg"],"text":"If this card is Special Summoned from the Graveyard, it gains this effect.\n● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.","type":"Monster","attribute":"DARK","atk":2300,"species":"Fairy","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":2000,"level":5,"is_tuner":false}
+{
+  "id": 47664723,
+  "name": "Darklord Edeh Arae",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Special Summoned from the Graveyard, it gains this effect.\n\u25cf If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47664723.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2300,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2000,
+  "level": 5,
+  "is_tuner": false
+}

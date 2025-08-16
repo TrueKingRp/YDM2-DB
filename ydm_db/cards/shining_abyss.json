@@ -1,1 +1,21 @@
-{"id":87303357,"name":"Shining Abyss","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/87303357.jpg"],"text":"This monster employs the powers of both Light and Darkness.","type":"Monster","attribute":"LIGHT","atk":1600,"species":"Fairy","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":1800,"level":4,"is_tuner":false}
+{
+  "id": 87303357,
+  "name": "Shining Abyss",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This monster employs the powers of both Light and Darkness.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/87303357.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1600,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

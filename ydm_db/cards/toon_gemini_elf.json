@@ -1,1 +1,21 @@
-{"id":42386471,"name":"Toon Gemini Elf","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/42386471.jpg"],"text":"Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Discard 1 random card from your opponent's hand.","type":"Monster","attribute":"EARTH","atk":1900,"species":"Spellcaster","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":900,"level":4,"is_tuner":false}
+{
+  "id": 42386471,
+  "name": "Toon Gemini Elf",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Discard 1 random card from your opponent's hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/42386471.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "species": "Spellcaster",
+  "ability": "Toon",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

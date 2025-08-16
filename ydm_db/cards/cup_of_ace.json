@@ -1,1 +1,12 @@
-{"id":37812118,"name":"Cup of Ace","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/37812118.jpg"],"text":"Toss a coin: ● Heads: Draw 2 cards. ● Tails: Your opponent draws 2 cards.","type":"Spell","spell_type":"Normal"}
+{
+  "id": 37812118,
+  "name": "Cup of Ace",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Toss a coin and apply this effect.\n\u25cf Heads: Draw 2 cards.\n\u25cf Tails: Your opponent draws 2 cards.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/37812118.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

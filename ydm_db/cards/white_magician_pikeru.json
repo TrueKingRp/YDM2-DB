@@ -1,1 +1,21 @@
-{"id":81383947,"name":"White Magician Pikeru","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/81383947.jpg"],"text":"During your Standby Phase, increase your Life Points by 400 points for each monster on your side of the field.","type":"Monster","attribute":"LIGHT","atk":1200,"species":"Spellcaster","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":0,"level":2,"is_tuner":false}
+{
+  "id": 81383947,
+  "name": "White Magician Pikeru",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "During your Standby Phase, increase your Life Points by 400 points for each monster on your side of the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81383947.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1200,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

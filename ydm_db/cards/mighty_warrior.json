@@ -1,1 +1,21 @@
-{"id":53981499,"name":"Mighty Warrior","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/53981499.jpg"],"text":"1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent's monster by battle: Inflict damage to your opponent equal to half the destroyed monster's original ATK.","type":"Monster","attribute":"EARTH","atk":2200,"species":"Warrior","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Synchro","def":2000,"level":6,"is_tuner":false}
+{
+  "id": 53981499,
+  "name": "Mighty Warrior",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent's monster by battle: Inflict damage to your opponent equal to half the destroyed monster's original ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/53981499.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2200,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

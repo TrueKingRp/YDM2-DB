@@ -1,1 +1,21 @@
-{"id":36687247,"name":"T.G. Rush Rhino","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/36687247.jpg"],"text":"If this card attacks, it gains 400 ATK during the Damage Step only. Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Rush Rhino\".","type":"Monster","attribute":"EARTH","atk":1600,"species":"Beast","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":800,"level":4,"is_tuner":false}
+{
+  "id": 36687247,
+  "name": "T.G. Rush Rhino",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card attacks, it gains 400 ATK during the Damage Step only. Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Rush Rhino\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/36687247.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
+}

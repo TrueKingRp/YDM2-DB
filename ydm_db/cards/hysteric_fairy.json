@@ -1,1 +1,21 @@
-{"id":21297224,"name":"Hysteric Fairy","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/21297224.jpg"],"text":"Tribute 2 monsters on your side of the field to increase your Life Points by 1000 points.","type":"Monster","attribute":"LIGHT","atk":1800,"species":"Fairy","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":500,"level":4,"is_tuner":false}
+{
+  "id": 21297224,
+  "name": "Hysteric Fairy",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Tribute 2 monsters on your side of the field to increase your Life Points by 1000 points.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/21297224.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
+}

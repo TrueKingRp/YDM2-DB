@@ -1,1 +1,21 @@
-{"id":82260502,"name":"Hieracosphinx","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/82260502.jpg"],"text":"Your opponent cannot select a face-down Defense Position monster as an attack target.","type":"Monster","attribute":"EARTH","atk":2400,"species":"Rock","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1200,"level":6,"is_tuner":false}
+{
+  "id": 82260502,
+  "name": "Hieracosphinx",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Your opponent cannot select a face-down Defense Position monster as an attack target.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/82260502.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2400,
+  "species": "Rock",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,1 +1,21 @@
-{"id":23635815,"name":"Jerry Beans Man","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/23635815.jpg"],"text":"Jerry, a bean soldier, believes he is the strongest warrior in the world, but his true abilities are still untested.","type":"Monster","attribute":"EARTH","atk":1750,"species":"Plant","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":0,"level":3,"is_tuner":false}
+{
+  "id": 23635815,
+  "name": "Jerry Beans Man",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Jerry, a bean soldier, believes he is the strongest warrior in the world, but his true abilities are still untested.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/23635815.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1750,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

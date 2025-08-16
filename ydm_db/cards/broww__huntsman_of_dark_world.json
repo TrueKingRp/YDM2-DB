@@ -1,1 +1,21 @@
-{"id":79126789,"name":"Broww, Huntsman of Dark World","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/79126789.jpg"],"text":"If this card is discarded to the Graveyard by a card effect: Draw 1 card, plus another card if this card was discarded from your hand to your Graveyard by an opponent's card effect.","type":"Monster","attribute":"DARK","atk":1400,"species":"Fiend","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":800,"level":3,"is_tuner":false}
+{
+  "id": 79126789,
+  "name": "Broww, Huntsman of Dark World",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is discarded to the GY by card effect: Draw 1 card, or, if it was discarded from your hand to your GY by an opponent's card effect, draw 2 cards instead.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/79126789.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

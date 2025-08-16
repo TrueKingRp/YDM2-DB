@@ -1,1 +1,21 @@
-{"id":18710707,"name":"The Furious Sea King","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/18710707.jpg"],"text":"Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy.","type":"Monster","attribute":"WATER","atk":800,"species":"Aqua","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":700,"level":3,"is_tuner":false}
+{
+  "id": 18710707,
+  "name": "The Furious Sea King",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/18710707.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 800,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
+}

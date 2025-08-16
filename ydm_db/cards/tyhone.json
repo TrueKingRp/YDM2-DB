@@ -1,1 +1,21 @@
-{"id":72842870,"name":"Tyhone","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/72842870.jpg"],"text":"Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.","type":"Monster","attribute":"WIND","atk":1200,"species":"Winged Beast","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":1400,"level":4,"is_tuner":false}
+{
+  "id": 72842870,
+  "name": "Tyhone",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/72842870.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1200,
+  "species": "Winged Beast",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,1 +1,22 @@
-{"id":2220237,"name":"Secure Gardna","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/2220237.jpg"],"text":"1 Cyberse Link Monster\nAfter this card is Special Summoned, you take no effect damage for the rest of this turn. Once per turn, if you would take battle or effect damage, you take no damage. Cannot be used as Link Material. You can only control 1 \"Secure Gardna\".","type":"Monster","attribute":"LIGHT","atk":1000,"species":"Cyberse","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Link","link_rating":1,"link_arrows":["Right"]}
+{
+  "id": 2220237,
+  "name": "Secure Gardna",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Cyberse Link Monster\nAfter this card is Special Summoned, you take no effect damage for the rest of this turn. Once per turn, if you would take battle or effect damage, you take no damage. Cannot be used as Link Material. You can only control 1 \"Secure Gardna\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/2220237.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Right"
+  ]
+}

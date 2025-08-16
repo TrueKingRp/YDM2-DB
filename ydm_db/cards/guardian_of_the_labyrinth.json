@@ -1,1 +1,21 @@
-{"id":89272878,"name":"Guardian of the Labyrinth","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/89272878.jpg"],"text":"A monster that guards the entrance to the Netherworld.","type":"Monster","attribute":"EARTH","atk":1000,"species":"Warrior","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":1200,"level":4,"is_tuner":false}
+{
+  "id": 89272878,
+  "name": "Guardian of the Labyrinth",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A monster that guards the entrance to the Netherworld.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/89272878.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

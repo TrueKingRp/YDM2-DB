@@ -1,1 +1,12 @@
-{"id":5915629,"name":"The Gift of Greed","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/5915629.jpg"],"text":"Your opponent draws 2 cards.","type":"Trap","trap_type":"Normal"}
+{
+  "id": 5915629,
+  "name": "The Gift of Greed",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Your opponent draws 2 cards.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/5915629.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

@@ -1,1 +1,21 @@
-{"id":89621922,"name":"Neo-Spacian Flare Scarab","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/89621922.jpg"],"text":"Gains 400 ATK for each Spell/Trap your opponent controls.","type":"Monster","attribute":"FIRE","atk":500,"species":"Insect","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":500,"level":3,"is_tuner":false}
+{
+  "id": 89621922,
+  "name": "Neo-Spacian Flare Scarab",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Gains 400 ATK for each Spell/Trap your opponent controls.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/89621922.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 500,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
+}

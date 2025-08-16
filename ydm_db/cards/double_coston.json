@@ -1,1 +1,21 @@
-{"id":44436472,"name":"Double Coston","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/44436472.jpg"],"text":"This card can be treated as 2 Tributes for the Tribute Summon of a DARK monster.","type":"Monster","attribute":"DARK","atk":1700,"species":"Zombie","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1650,"level":4,"is_tuner":false}
+{
+  "id": 44436472,
+  "name": "Double Coston",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a DARK monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/44436472.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Zombie",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1650,
+  "level": 4,
+  "is_tuner": false
+}

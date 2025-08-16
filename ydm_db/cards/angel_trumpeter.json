@@ -1,1 +1,21 @@
-{"id":87979586,"name":"Angel Trumpeter","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/87979586.jpg"],"text":"This beautiful, fairy-like flower generates a delusional mist to keep intruders away from the deepest parts of the forest, where sacred beasts dwell.","type":"Monster","attribute":"EARTH","atk":1900,"species":"Plant","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Normal","def":1600,"level":4,"is_tuner":true}
+{
+  "id": 87979586,
+  "name": "Angel Trumpeter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This beautiful, fairy-like flower generates a delusional mist to keep intruders away from the deepest parts of the forest, where sacred beasts dwell.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/87979586.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": true
+}

@@ -1,1 +1,12 @@
-{"id":20686759,"name":"Morphtronic Rusty Engine","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/20686759.jpg"],"text":"Equip only to a \"Morphtronic\" monster. If the equipped monster is destroyed, inflict damage to each player equal to its original ATK.","type":"Spell","spell_type":"Equip"}
+{
+  "id": 20686759,
+  "name": "Morphtronic Rusty Engine",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Equip only to a \"Morphtronic\" monster. If the equipped monster is destroyed, inflict damage to each player equal to its original ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/20686759.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

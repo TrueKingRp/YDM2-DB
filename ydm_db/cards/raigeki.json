@@ -1,1 +1,12 @@
-{"id":12580477,"name":"Raigeki","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/12580477.jpg"],"text":"Destroy all monsters your opponent controls.","type":"Spell","spell_type":"Normal"}
+{
+  "id": 12580477,
+  "name": "Raigeki",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Destroy all monsters your opponent controls.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/12580477.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

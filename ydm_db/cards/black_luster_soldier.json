@@ -1,1 +1,21 @@
-{"id":5405694,"name":"Black Luster Soldier","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/5405694.jpg"],"text":"You can Ritual Summon this card with \"Black Luster Ritual\".","type":"Monster","attribute":"EARTH","atk":3000,"species":"Warrior","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Ritual","def":2500,"level":8,"is_tuner":false}
+{
+  "id": 5405694,
+  "name": "Black Luster Soldier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "The strongest warrior, it has the same capabilities as Blue-Eyes White Dragon.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/5405694.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

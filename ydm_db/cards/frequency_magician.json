@@ -1,1 +1,21 @@
-{"id":62154416,"name":"Frequency Magician","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/62154416.jpg"],"text":"When this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to have 1 face-up monster you control gain 500 ATK, until the End Phase.","type":"Monster","attribute":"LIGHT","atk":800,"species":"Spellcaster","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":400,"level":2,"is_tuner":true}
+{
+  "id": 62154416,
+  "name": "Frequency Magician",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to have 1 face-up monster you control gain 500 ATK, until the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/62154416.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 400,
+  "level": 2,
+  "is_tuner": true
+}

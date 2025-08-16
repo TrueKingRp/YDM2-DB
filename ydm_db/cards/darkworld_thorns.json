@@ -1,1 +1,21 @@
-{"id":43500484,"name":"Darkworld Thorns","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/43500484.jpg"],"text":"A thorny plant found in the darklands that wraps itself around any unwary traveler.","type":"Monster","attribute":"EARTH","atk":1200,"species":"Plant","ability":"","has_effect":false,"is_pendulum":false,"monster_type":"Normal","def":900,"level":3,"is_tuner":false}
+{
+  "id": 43500484,
+  "name": "Darkworld Thorns",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A thorny plant found in the darklands that wraps itself around any unwary traveler.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/43500484.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
+}

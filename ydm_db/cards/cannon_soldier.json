@@ -1,1 +1,21 @@
-{"id":11384280,"name":"Cannon Soldier","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/11384280.jpg"],"text":"You can Tribute 1 monster; inflict 500 damage to your opponent.","type":"Monster","attribute":"DARK","atk":1400,"species":"Machine","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":1300,"level":4,"is_tuner":false}
+{
+  "id": 11384280,
+  "name": "Cannon Soldier",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Tribute 1 monster; inflict 500 damage to your opponent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/11384280.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1400,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,1 +1,21 @@
-{"id":9861795,"name":"Mogmole","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/9861795.jpg"],"text":"When this card on the field is destroyed and sent to the Graveyard: You can Special Summon it from your Graveyard in face-up Defense Position. You can only use the effect of \"Mogmole\" once per Duel.","type":"Monster","attribute":"EARTH","atk":800,"species":"Beast","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":800,"level":2,"is_tuner":false}
+{
+  "id": 9861795,
+  "name": "Mogmole",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card on the field is destroyed and sent to the Graveyard: You can Special Summon it from your Graveyard in face-up Defense Position. You can only use the effect of \"Mogmole\" once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/9861795.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,1 +1,21 @@
-{"id":18407024,"name":"Wattbetta","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/18407024.jpg"],"text":"When this card inflicts Battle Damage to your opponent by a direct attack, your opponent discards 1 card of their choice.","type":"Monster","attribute":"LIGHT","atk":100,"species":"Thunder","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":0,"level":2,"is_tuner":true}
+{
+  "id": 18407024,
+  "name": "Wattbetta",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card inflicts Battle Damage to your opponent by a direct attack, your opponent discards 1 card of their choice.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/18407024.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 100,
+  "species": "Thunder",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 2,
+  "is_tuner": true
+}

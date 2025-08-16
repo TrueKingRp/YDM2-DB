@@ -1,1 +1,21 @@
-{"id":73417207,"name":"Mara of the Nordic Alfar","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/73417207.jpg"],"text":"When using this card as Synchro Material, the other Synchro Materials must be 2 \"Nordic\" monsters in your hand.","type":"Monster","attribute":"DARK","atk":1000,"species":"Spellcaster","ability":"","has_effect":true,"is_pendulum":false,"monster_type":"Effect","def":500,"level":2,"is_tuner":true}
+{
+  "id": 73417207,
+  "name": "Mara of the Nordic Alfar",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When using this card as Synchro Material, the other Synchro Materials must be 2 \"Nordic\" monsters in your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/73417207.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 2,
+  "is_tuner": true
+}
