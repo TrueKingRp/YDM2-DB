@@ -1,0 +1,12 @@
+{
+  "id": 72563071,
+  "name": "Psychic Shockwave",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent activates a Trap Card: Discard 1 Spell/Trap; Special Summon 1 Level 6 DARK Machine monster from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/72563071.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 58419204,
+  "name": "Survival Instinct",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Banish any number of Dinosaur monsters from your GY; gain 400 LP for each Dinosaur monster banished to activate this card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/58419204.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

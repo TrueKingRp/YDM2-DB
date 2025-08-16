@@ -1,0 +1,23 @@
+{
+  "id": 49847524,
+  "name": "Flame Administrator",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 Cyberse monsters\nAll Link Monsters you control gain 800 ATK. You can only control 1 \"Flame Administrator\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/49847524.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1200,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Right",
+    "Left"
+  ]
+}

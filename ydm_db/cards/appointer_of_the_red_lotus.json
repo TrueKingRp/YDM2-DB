@@ -1,0 +1,12 @@
+{
+  "id": 43262273,
+  "name": "Appointer of the Red Lotus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Pay 2000 LP and reveal your entire hand; look at your opponent's hand and banish 1 card from their hand, until your opponent's next End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/43262273.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

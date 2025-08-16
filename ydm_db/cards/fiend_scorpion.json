@@ -1,0 +1,21 @@
+{
+  "id": 26566878,
+  "name": "Fiend Scorpion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/26566878.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 900,
+  "species": "Insect",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 98299011,
+  "name": "Gift of The Mystical Elf",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Gain 300 LP for each monster on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/98299011.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

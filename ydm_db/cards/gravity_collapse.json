@@ -1,0 +1,12 @@
+{
+  "id": 7811875,
+  "name": "Gravity Collapse",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When your opponent would Summon a monster(s): Send 1 face-up Synchro Monster you control to the GY; negate the Summon, and if you do, destroy that monster, and your opponent cannot Summon a monster until the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/7811875.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

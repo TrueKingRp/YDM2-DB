@@ -1,0 +1,12 @@
+{
+  "id": 48642904,
+  "name": "Mesmeric Control",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Your opponent cannot change the battle positions of monsters during their next turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/48642904.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

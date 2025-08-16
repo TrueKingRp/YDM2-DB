@@ -1,0 +1,23 @@
+{
+  "id": 77637979,
+  "name": "LANphorhynchus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 monsters",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/77637979.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1200,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
+  "link_arrows": [
+    "Bottom-Right",
+    "Bottom-Left"
+  ]
+}

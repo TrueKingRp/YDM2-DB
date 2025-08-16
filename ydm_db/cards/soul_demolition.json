@@ -1,0 +1,12 @@
+{
+  "id": 76297408,
+  "name": "Soul Demolition",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a Fiend monster: You can pay 500 LP, then each player targets 1 monster in their opponent's GY; banish those targets.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/76297408.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

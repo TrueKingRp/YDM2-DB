@@ -1,0 +1,12 @@
+{
+  "id": 40703393,
+  "name": "The Puppet Magic of Dark Ruler",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 Fiend monster in your GY; banish face-up monsters you control whose total Levels exactly equal the Level of that monster, then Special Summon it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/40703393.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

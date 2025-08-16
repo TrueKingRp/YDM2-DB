@@ -1,0 +1,12 @@
+{
+  "id": 1965724,
+  "name": "Mokey Mokey Smackdown",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a face-up Fairy monster you control is destroyed while you control \"Mokey Mokey\", until the end of this turn the ATK of each \"Mokey Mokey\" you control will become 3000.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/1965724.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

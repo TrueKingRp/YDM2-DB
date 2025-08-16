@@ -1,0 +1,12 @@
+{
+  "id": 39956951,
+  "name": "Flash of the Forbidden Spell",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If your opponent controls monsters in all of their Main Monster Zones: Destroy all monsters your opponent controls.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/39956951.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

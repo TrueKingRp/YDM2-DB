@@ -1,0 +1,21 @@
+{
+  "id": 30243636,
+  "name": "Hungry Burger",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with \"Hamburger Recipe\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/30243636.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 1850,
+  "level": 6,
+  "is_tuner": false
+}

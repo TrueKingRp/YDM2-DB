@@ -1,0 +1,12 @@
+{
+  "id": 71983925,
+  "name": "Talisman of Spell Sealing",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate this card only if you control \"Sealmaster Meisei\". Spell Cards, and their effects on the field, cannot be activated. Negate all Spell effects on the field. If you do not control \"Sealmaster Meisei\", destroy this card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/71983925.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

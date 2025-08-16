@@ -1,0 +1,21 @@
+{
+  "id": 40916023,
+  "name": "Aqua Spirit",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 WATER monster from your GY. Once per turn, during your opponent's Standby Phase: You can target 1 face-up monster your opponent controls; change that target's battle position, and if you do, it cannot change its battle position for the rest of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/40916023.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1600,
+  "species": "Aqua",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

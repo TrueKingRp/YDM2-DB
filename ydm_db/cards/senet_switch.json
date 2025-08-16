@@ -1,0 +1,12 @@
+{
+  "id": 63394872,
+  "name": "Senet Switch",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn: You can target 1 monster in your Main Monster Zone and choose 1 of its unused adjacent (horizontal) Monster Zones; move that target to the chosen adjacent zone.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/63394872.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

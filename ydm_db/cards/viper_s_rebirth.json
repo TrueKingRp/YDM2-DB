@@ -1,0 +1,12 @@
+{
+  "id": 64973456,
+  "name": "Viper's Rebirth",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If all monsters in your GY are Reptile: Target 1 non-Tuner in your GY; Special Summon it, but destroy it during the End Phase of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/64973456.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 53714009,
+  "name": "Flamvell Uruquizas",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: It gains 300 ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/53714009.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2100,
+  "species": "Pyro",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 400,
+  "level": 6,
+  "is_tuner": false
+}

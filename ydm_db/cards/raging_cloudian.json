@@ -1,0 +1,12 @@
+{
+  "id": 23639291,
+  "name": "Raging Cloudian",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a \"Cloudian\" monster(s) you control is destroyed by its own effect and sent to your GY: Target 1 of those monsters; Special Summon it in Attack Position, and if you do, place 1 Fog Counter on it, also it cannot be changed to Defense Position by card effects.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/23639291.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

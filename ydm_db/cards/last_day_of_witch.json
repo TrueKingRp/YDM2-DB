@@ -1,0 +1,12 @@
+{
+  "id": 90330453,
+  "name": "Last Day of Witch",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Destroy all Spellcaster monsters on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/90330453.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 40575313,
+  "name": "Shadow Specter",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Powerful in groups, this animal spirit can be found in the wastelands.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/40575313.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 500,
+  "species": "Zombie",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2311603,
+  "name": "Overdrive",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "An all-terrain armored vehicle armed with a heavy-duty machine gun.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/2311603.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 48905153,
+  "name": "Zoodiac Drident",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "4 Level 4 monsters\nOnce per turn, you can also Xyz Summon \"Zoodiac Drident\" by using 1 \"Zoodiac\" monster you control with a different name as material. (Transfer its materials to this card.) Gains ATK/DEF equal to the ATK/DEF of all \"Zoodiac\" monsters attached to it as material. Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up card on the field; destroy it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/48905153.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": -1,
+  "species": "Beast-Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": -1,
+  "rank": 4
+}

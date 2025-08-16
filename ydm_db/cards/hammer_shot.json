@@ -1,0 +1,12 @@
+{
+  "id": 26412047,
+  "name": "Hammer Shot",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Destroy the 1 Attack Position monster on the field with the highest ATK (your choice, if tied).",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/26412047.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
