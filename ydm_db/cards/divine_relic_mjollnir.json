@@ -1,12 +1,1 @@
-{
-  "id": 89914395,
-  "name": "Divine Relic Mjollnir",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Target 1 \"Aesir\" monster you control; it can make a second attack during each Battle Phase this turn.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/89914395.jpg"
-  ],
-  "type": "Trap",
-  "trap_type": "Normal"
-}
+{"id":89914395,"name":"Divine Relic Mjollnir","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/89914395.jpg"],"text":"Target 1 \"Aesir\" monster you control; it can make a second attack during each Battle Phase this turn.","type":"Trap","trap_type":"Normal"}

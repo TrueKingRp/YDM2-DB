@@ -1,12 +1,1 @@
-{
-  "id": 31849106,
-  "name": "Different Dimension Ground",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "This turn, any monster sent to the GY is banished instead.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/31849106.jpg"
-  ],
-  "type": "Trap",
-  "trap_type": "Normal"
-}
+{"id":31849106,"name":"Different Dimension Ground","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/31849106.jpg"],"text":"This turn, any monster sent to the GY is banished instead.","type":"Trap","trap_type":"Normal"}

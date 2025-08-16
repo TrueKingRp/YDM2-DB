@@ -1,12 +1,1 @@
-{
-  "id": 46480475,
-  "name": "Discord",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Neither player can Synchro Summon. Send this card to the Graveyard during your 3rd End Phase after activation.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/46480475.jpg"
-  ],
-  "type": "Trap",
-  "trap_type": "Continuous"
-}
+{"id":46480475,"name":"Discord","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/46480475.jpg"],"text":"Neither player can Synchro Summon. Send this card to the Graveyard during your 3rd End Phase after activation.","type":"Trap","trap_type":"Continuous"}

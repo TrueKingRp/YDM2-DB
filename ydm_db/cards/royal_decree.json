@@ -1,12 +1,1 @@
-{
-  "id": 51452091,
-  "name": "Royal Decree",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Negate all other Trap effects on the field.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/51452091.jpg"
-  ],
-  "type": "Trap",
-  "trap_type": "Continuous"
-}
+{"id":51452091,"name":"Royal Decree","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/51452091.jpg"],"text":"Negate all other Trap effects on the field.","type":"Trap","trap_type":"Continuous"}

@@ -1,12 +1,1 @@
-{
-  "id": 20065549,
-  "name": "Non-Spellcasting Area",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "All face-up monsters, except for Effect Monsters, are unaffected by other Spell effects.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/20065549.jpg"
-  ],
-  "type": "Spell",
-  "spell_type": "Continuous"
-}
+{"id":20065549,"name":"Non-Spellcasting Area","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/20065549.jpg"],"text":"All face-up monsters, except for Effect Monsters, are unaffected by other Spell effects.","type":"Spell","spell_type":"Continuous"}

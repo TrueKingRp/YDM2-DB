@@ -1,12 +1,1 @@
-{
-  "id": 36361633,
-  "name": "Threatening Roar",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Your opponent cannot declare an attack this turn.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/36361633.jpg"
-  ],
-  "type": "Trap",
-  "trap_type": "Normal"
-}
+{"id":36361633,"name":"Threatening Roar","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/36361633.jpg"],"text":"Your opponent cannot declare an attack this turn.","type":"Trap","trap_type":"Normal"}

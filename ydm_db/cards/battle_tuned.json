@@ -1,12 +1,1 @@
-{
-  "id": 5052212,
-  "name": "Battle Tuned",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Remove from play 1 Tuner monster from your Graveyard. Target face-up monster you control gains ATK equal to the removed monster's ATK.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/5052212.jpg"
-  ],
-  "type": "Spell",
-  "spell_type": "Quick-Play"
-}
+{"id":5052212,"name":"Battle Tuned","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/5052212.jpg"],"text":"Remove from play 1 Tuner monster from your Graveyard. Target face-up monster you control gains ATK equal to the removed monster's ATK.","type":"Spell","spell_type":"Quick-Play"}

@@ -1,12 +1,1 @@
-{
-  "id": 64274292,
-  "name": "Meteorain",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "During this turn, when your monsters attack with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/64274292.jpg"
-  ],
-  "type": "Trap",
-  "trap_type": "Normal"
-}
+{"id":64274292,"name":"Meteorain","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/64274292.jpg"],"text":"During this turn, when your monsters attack with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points.","type":"Trap","trap_type":"Normal"}

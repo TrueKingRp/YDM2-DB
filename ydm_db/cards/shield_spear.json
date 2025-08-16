@@ -1,12 +1,1 @@
-{
-  "id": 3244563,
-  "name": "Shield Spear",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Target 1 face-up monster on the field; it gains 400 ATK/DEF until the end of this turn.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/3244563.jpg"
-  ],
-  "type": "Trap",
-  "trap_type": "Normal"
-}
+{"id":3244563,"name":"Shield Spear","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/3244563.jpg"],"text":"Target 1 face-up monster on the field; it gains 400 ATK/DEF until the end of this turn.","type":"Trap","trap_type":"Normal"}

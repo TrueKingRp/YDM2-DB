@@ -1,12 +1,1 @@
-{
-  "id": 90135989,
-  "name": "Cloudian Squall",
-  "is_illegal": false,
-  "is_custom": false,
-  "text": "Once per turn, during your Standby Phase: Place 1 Fog Counter on each face-up monster on the field.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/90135989.jpg"
-  ],
-  "type": "Spell",
-  "spell_type": "Continuous"
-}
+{"id":90135989,"name":"Cloudian Squall","is_illegal":false,"is_custom":false,"images":["https://images.ygoprodeck.com/images/cards/90135989.jpg"],"text":"During each of your Standby Phases, place 1 Fog Counter on every face-up monster.","type":"Spell","spell_type":"Continuous"}
